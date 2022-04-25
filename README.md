@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Mini Casino React Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+### Node version 17.6.8
+
+### React version 18.0.0
+
+### Redux version 8.0.0
+
+### First, unzip the minimal-casino.zip then command `npm install`
+
+### Setup Mock Api with : `json-server --watch src/mock/mock-data.json --port 3001 --middlewares src/mock/mock-api.js` 
+
+### `npm start`
 
 ## Available Scripts
 
