@@ -8,7 +8,7 @@
 
 ### Redux version 8.0.0
 
-### First, unzip the minimal-casino.zip then command `npm install`
+### Clone/download the project then unzip the minimalcasino-main.zip, go to 'minimal-casino' path then command `npm install`
 
 ### Setup Mock Api with : `json-server --watch src/mock/mock-data.json --port 3001 --middlewares src/mock/mock-api.js` 
 
